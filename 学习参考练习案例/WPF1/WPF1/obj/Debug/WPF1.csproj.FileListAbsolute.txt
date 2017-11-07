@@ -1,0 +1,13 @@
+d:\库\文档\visual studio 2013\Projects\WPF1\WPF1\bin\Debug\WPF1.exe.config
+d:\库\文档\visual studio 2013\Projects\WPF1\WPF1\bin\Debug\WPF1.exe
+d:\库\文档\visual studio 2013\Projects\WPF1\WPF1\bin\Debug\WPF1.pdb
+d:\库\文档\visual studio 2013\Projects\WPF1\WPF1\obj\Debug\WPF1.csprojResolveAssemblyReference.cache
+d:\库\文档\visual studio 2013\Projects\WPF1\WPF1\obj\Debug\MainWindow.baml
+d:\库\文档\visual studio 2013\Projects\WPF1\WPF1\obj\Debug\MainWindow.g.cs
+d:\库\文档\visual studio 2013\Projects\WPF1\WPF1\obj\Debug\App.g.cs
+d:\库\文档\visual studio 2013\Projects\WPF1\WPF1\obj\Debug\WPF1_MarkupCompile.cache
+d:\库\文档\visual studio 2013\Projects\WPF1\WPF1\obj\Debug\WPF1.g.resources
+d:\库\文档\visual studio 2013\Projects\WPF1\WPF1\obj\Debug\WPF1.Properties.Resources.resources
+d:\库\文档\visual studio 2013\Projects\WPF1\WPF1\obj\Debug\WPF1.csproj.GenerateResource.Cache
+d:\库\文档\visual studio 2013\Projects\WPF1\WPF1\obj\Debug\WPF1.exe
+d:\库\文档\visual studio 2013\Projects\WPF1\WPF1\obj\Debug\WPF1.pdb

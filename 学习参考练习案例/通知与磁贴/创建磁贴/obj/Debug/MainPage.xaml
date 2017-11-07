@@ -1,0 +1,35 @@
+﻿<Page
+    x:Class="创建磁贴.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:创建磁贴"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Button x:ConnectionId='1' x:Name="b"                      >
+            <Button.BorderBrush>
+                <ImageBrush Stretch="Fill"/>
+            </Button.BorderBrush>
+            <Button.Content>
+                <Image Source="Assets/2.jpg"/>
+            </Button.Content>
+        </Button>
+        <Button x:ConnectionId='2' x:Name="b1"                  Visibility="Collapsed">
+            <Button.BorderBrush>
+                <ImageBrush Stretch="Fill"/>
+            </Button.BorderBrush>
+            <Button.Content>
+                <Image Source="Assets/1.jpg"/>
+            </Button.Content>
+        </Button>
+        <Button x:ConnectionId='3' Content="发送通知"                    VerticalAlignment="Top" >
+            <Button.BorderBrush>
+                <ImageBrush Stretch="Fill"/>
+            </Button.BorderBrush>
+        </Button>
+    </Grid>
+</Page>
+

@@ -1,0 +1,9 @@
+d:\库\文档\visual studio 2013\Projects\记事本\记事本\bin\Debug\记事本.exe.config
+d:\库\文档\visual studio 2013\Projects\记事本\记事本\bin\Debug\记事本.exe
+d:\库\文档\visual studio 2013\Projects\记事本\记事本\bin\Debug\记事本.pdb
+d:\库\文档\visual studio 2013\Projects\记事本\记事本\obj\Debug\记事本.csprojResolveAssemblyReference.cache
+d:\库\文档\visual studio 2013\Projects\记事本\记事本\obj\Debug\记事本.Form1.resources
+d:\库\文档\visual studio 2013\Projects\记事本\记事本\obj\Debug\记事本.Properties.Resources.resources
+d:\库\文档\visual studio 2013\Projects\记事本\记事本\obj\Debug\记事本.csproj.GenerateResource.Cache
+d:\库\文档\visual studio 2013\Projects\记事本\记事本\obj\Debug\记事本.exe
+d:\库\文档\visual studio 2013\Projects\记事本\记事本\obj\Debug\记事本.pdb

@@ -1,0 +1,5 @@
+D:\库\文档\Visual Studio 2013\Projects\Nano1\Two\bin\Debug\Two.exe.config
+D:\库\文档\Visual Studio 2013\Projects\Nano1\Two\bin\Debug\Two.exe
+D:\库\文档\Visual Studio 2013\Projects\Nano1\Two\bin\Debug\Two.pdb
+D:\库\文档\Visual Studio 2013\Projects\Nano1\Two\obj\Debug\Two.exe
+D:\库\文档\Visual Studio 2013\Projects\Nano1\Two\obj\Debug\Two.pdb

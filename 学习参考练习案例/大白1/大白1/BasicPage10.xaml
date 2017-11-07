@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="大白1.BasicPage10"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:大白1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel>
+        <Image Source="/Assets/1.jpg" Height="100" HorizontalAlignment="Left" />
+
+        <Image Source="/Assets/7.jpg" Height="300" HorizontalAlignment="Center" />
+        <TextBlock TextWrapping="Wrap" FontSize="30" Text="由于大白大胖了,你抱不过来,被反抱咚！" HorizontalAlignment="Center" />
+        <TextBlock/>
+        <Button Content="不挣扎了" Click="Button_Click" HorizontalAlignment="Center"/>
+
+        <TextBlock/>
+
+    </StackPanel>
+</Page>

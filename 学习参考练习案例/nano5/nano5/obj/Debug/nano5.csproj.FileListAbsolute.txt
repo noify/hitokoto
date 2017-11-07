@@ -1,0 +1,8 @@
+d:\库\文档\visual studio 2013\Projects\nano5\nano5\bin\Debug\nano5.exe.config
+D:\库\文档\Visual Studio 2013\Projects\nano5\nano5\bin\Debug\nano5.exe
+D:\库\文档\Visual Studio 2013\Projects\nano5\nano5\bin\Debug\nano5.pdb
+D:\库\文档\Visual Studio 2013\Projects\nano5\nano5\obj\Debug\nano5.Form1.resources
+D:\库\文档\Visual Studio 2013\Projects\nano5\nano5\obj\Debug\nano5.Properties.Resources.resources
+D:\库\文档\Visual Studio 2013\Projects\nano5\nano5\obj\Debug\nano5.csproj.GenerateResource.Cache
+D:\库\文档\Visual Studio 2013\Projects\nano5\nano5\obj\Debug\nano5.exe
+D:\库\文档\Visual Studio 2013\Projects\nano5\nano5\obj\Debug\nano5.pdb

@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="大白1.BasicPage4"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:大白1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel>
+        <Image Source="/Assets/3.jpg" Height="100" HorizontalAlignment="Left" />
+        <TextBlock/>
+        <TextBlock/>
+        <TextBlock/>
+        <TextBlock/>
+        <Image Source="/Assets/6.jpg" Height="200" HorizontalAlignment="Center" />
+        <TextBlock TextWrapping="Wrap" FontSize="30" Text="正在扫描你的身体中..................扫描完成,看来你并没有什么大碍,来击个拳吧!" HorizontalAlignment="Center" />
+        <TextBlock/>
+        <Button Content="bulalalala~" Click="Button_Click" HorizontalAlignment="Center"/>
+        <Button Content="抱咚！" Click="Button_Click_1" HorizontalAlignment="Center"/>
+        <TextBlock/>
+        
+    </StackPanel>
+</Page>

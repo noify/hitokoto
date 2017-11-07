@@ -1,0 +1,64 @@
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\bin\Debug\App.xbf
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\bin\Debug\MainPage.xbf
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\bin\Debug\应用程序存储.xr.xml
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\bin\Debug\应用程序存储.exe
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\bin\Debug\应用程序存储.pdb
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\bin\Debug\resources.pri
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\bin\Debug\AppxManifest.xml
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\bin\Debug\应用程序存储.build.appxrecipe
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\App.g.i.cs
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\App.g.cs
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\MainPage.g.i.cs
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\MainPage.g.cs
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\XamlTypeInfo.g.cs
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\App.xaml
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\App.xbf
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\XamlSaveStateFile.xml
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\MainPage.xaml
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\MainPage.xbf
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\应用程序存储.exe
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\应用程序存储.pdb
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\priconfig.xml
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\priconfig.xml.intermediate
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\layout.resfiles
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\layout.resfiles.intermediate
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\resources.resfiles
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\resources.resfiles.intermediate
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\pri.resfiles
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\pri.resfiles.intermediate
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\qualifiers.txt
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\qualifiers.txt.intermediate
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\nano\documents\visual studio 2013\Projects\真。应用数据和公共文件\应用程序存储\obj\Debug\ProjectArchitectures.txt
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\bin\Debug\App.xbf
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\bin\Debug\MainPage.xbf
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\bin\Debug\应用程序存储.xr.xml
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\bin\Debug\应用程序存储.exe
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\bin\Debug\应用程序存储.pdb
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\bin\Debug\resources.pri
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\bin\Debug\AppxManifest.xml
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\bin\Debug\应用程序存储.build.appxrecipe
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\App.g.i.cs
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\App.g.cs
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\MainPage.g.i.cs
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\MainPage.g.cs
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\XamlTypeInfo.g.cs
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\App.xaml
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\MainPage.xaml
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\App.xbf
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\MainPage.xbf
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\XamlSaveStateFile.xml
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\应用程序存储.exe
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\应用程序存储.pdb
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\priconfig.xml
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\priconfig.xml.intermediate
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\layout.resfiles
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\layout.resfiles.intermediate
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\resources.resfiles
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\resources.resfiles.intermediate
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\pri.resfiles
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\pri.resfiles.intermediate
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\qualifiers.txt
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\qualifiers.txt.intermediate
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\库\OneDrive\文档\WindowsPhone8.1\真。应用数据和公共文件\应用程序存储\obj\Debug\ProjectArchitectures.txt

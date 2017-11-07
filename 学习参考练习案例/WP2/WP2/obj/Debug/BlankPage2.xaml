@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="WP2.BlankPage2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WP2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+
+        <TextBlock Text="2" FontSize="50" />       
+        <Button x:ConnectionId='1' Content="跳转1" HorizontalAlignment="Center"                     />
+        <Button x:ConnectionId='2' Content="后退" VerticalAlignment="Bottom"                       />
+    </Grid>
+</Page>
+

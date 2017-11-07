@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="WP2.BlankPage1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WP2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock FontSize="30" Text="lalala"/>
+        <Button Content="跳转" HorizontalAlignment="Center" Click="Button_Click"/>
+        <Button Content="后退" VerticalAlignment="Bottom" Click="Button_Click_1"/>
+    </Grid>
+</Page>

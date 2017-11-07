@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>L</Machine>
+    <WindowsUser>forever</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>34634cfd-a375-426a-b2ff-bfc4d82f12ca</PackageIdentityName>
+    <IntermediateOutputPath>D:\库\OneDrive\文档\WindowsPhone8.1\通知与磁贴\创建磁贴\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\库\OneDrive\文档\WindowsPhone8.1\通知与磁贴\创建磁贴\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\库\OneDrive\文档\WindowsPhone8.1\通知与磁贴\创建磁贴\bin\Debug\创建磁贴.exe">
+      <PackagePath>创建磁贴.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\库\OneDrive\文档\WindowsPhone8.1\通知与磁贴\创建磁贴\Assets\1.jpg">
+      <PackagePath>Assets\1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\库\OneDrive\文档\WindowsPhone8.1\通知与磁贴\创建磁贴\Assets\2.jpg">
+      <PackagePath>Assets\2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\库\OneDrive\文档\WindowsPhone8.1\通知与磁贴\创建磁贴\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\库\OneDrive\文档\WindowsPhone8.1\通知与磁贴\创建磁贴\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\库\OneDrive\文档\WindowsPhone8.1\通知与磁贴\创建磁贴\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\库\OneDrive\文档\WindowsPhone8.1\通知与磁贴\创建磁贴\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\库\OneDrive\文档\WindowsPhone8.1\通知与磁贴\创建磁贴\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\库\OneDrive\文档\WindowsPhone8.1\通知与磁贴\创建磁贴\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\库\OneDrive\文档\WindowsPhone8.1\通知与磁贴\创建磁贴\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\库\OneDrive\文档\WindowsPhone8.1\通知与磁贴\创建磁贴\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\库\OneDrive\文档\WindowsPhone8.1\通知与磁贴\创建磁贴\bin\Debug\创建磁贴.xr.xml">
+      <PackagePath>创建磁贴.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\库\OneDrive\文档\WindowsPhone8.1\通知与磁贴\创建磁贴\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,33 @@
+﻿<Page
+    x:Class="复习数据绑定.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:复习数据绑定"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <!--
+        使用一个按钮进行数据绑定
+        按钮的单值绑定和集合的多数据绑定
+        -->
+        <StackPanel>
+            <Button x:Name="btn" Content="{Binding Path=ButtonName}" />
+            <Button x:ConnectionId='1' Content="增加一条集合数据"                      />
+            <ListView  x:Name="list"  ScrollViewer.HorizontalScrollBarVisibility="Visible"  >
+                <!--需要创建数据模版-->
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                        <Button Content="{Binding Path=ListViewButtonName}" />
+                            <Button x:Name="btn" Content="{Binding Path=ButtonName}" />
+                        </Grid>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackPanel>
+    </Grid>
+</Page>
+

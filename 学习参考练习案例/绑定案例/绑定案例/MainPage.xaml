@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="绑定案例.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:绑定案例"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" >
+                <TextBlock Text="姓名" FontSize="50" />
+                <TextBox Width="250" Text="{Binding Path=Name,Mode=TwoWay}" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" >
+                <TextBlock Text="性别" FontSize="50" />
+                <TextBox Width="250" Text="{Binding Path=Gender,Mode=TwoWay}" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" >
+                <TextBlock Text="出生" FontSize="50" />
+                <TextBox Width="250" x:Name="tb" Text="{Binding Path=Birthdate,Mode=TwoWay}" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" >
+                <TextBlock Text="选择时间" FontSize="50" />
+                <DatePicker Width="150" DateChanged="DatePicker_DateChanged" x:Name="dt" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>

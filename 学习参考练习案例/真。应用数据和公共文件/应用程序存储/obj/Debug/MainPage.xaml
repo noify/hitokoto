@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="应用程序存储.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:应用程序存储"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel>
+            <TextBox Header="容器名" x:Name="txtContainer" />
+            <TextBox Header="存储的数据的键" x:Name="txtData" />
+            <Button x:ConnectionId='1' Content="保存"                      />
+            <Button x:ConnectionId='2' Content="删除"                        />
+            <TextBlock FontSize="20" x:Name="res" />
+        </StackPanel>
+    </Grid>
+</Page>
+

@@ -1,0 +1,6 @@
+D:\库\文档\Visual Studio 2013\Projects\Nano1\One\bin\Debug\One.exe.config
+D:\库\文档\Visual Studio 2013\Projects\Nano1\One\bin\Debug\One.exe
+D:\库\文档\Visual Studio 2013\Projects\Nano1\One\bin\Debug\One.pdb
+D:\库\文档\Visual Studio 2013\Projects\Nano1\One\obj\Debug\One.csprojResolveAssemblyReference.cache
+D:\库\文档\Visual Studio 2013\Projects\Nano1\One\obj\Debug\One.exe
+D:\库\文档\Visual Studio 2013\Projects\Nano1\One\obj\Debug\One.pdb

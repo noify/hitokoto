@@ -1,0 +1,24 @@
+﻿<Page
+    x:Class="使用静态资源.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:使用静态资源"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="150" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0">
+            <TextBlock Text="{Binding Path=Title1,Converter={StaticResource converter1}}" FontSize="30" />
+            <TextBlock Text="{Binding Path=Title2,Converter={StaticResource converter2}}" FontSize="80" HorizontalAlignment="Right" Margin="0 10 20 0" />
+        </StackPanel>
+        <Grid Grid.Row="1">
+            
+        </Grid>
+    </Grid>
+</Page>

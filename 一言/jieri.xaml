@@ -1,0 +1,29 @@
+﻿<Page
+    x:Class="一言.jieri"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:一言"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="ms-appx:///Assets/jieri/1.png" />
+        </Grid.Background>
+        <Grid VerticalAlignment="Top" Height="45">
+            <Grid.Background>
+                <ImageBrush ImageSource="ms-appx:///Assets/0.png" />
+            </Grid.Background>
+        </Grid>
+        <TextBlock Text="一言" Foreground="#FF16A0E1" FontWeight="Bold" FontSize="30" Margin="0,10,5,-10" />
+        <TextBlock Text="祝大家六一快乐~" Foreground="Black" FontSize="20" Margin="65,21,-61,-21" />
+        <StackPanel Margin="0,50">
+            <TextBlock Text="有女票的给女票买零食" Foreground="Gray" FontSize="20"/>
+            <TextBlock Text="有男票的跟男票要零食" Foreground="Gray" FontSize="20"/>
+            <TextBlock Text="什么？单身？自己买零食去吧" Foreground="Gray" FontSize="20"/>
+        </StackPanel>
+        <TextBlock Text="单身狗万岁！QAQ" Foreground="Gray" FontSize="10" VerticalAlignment="Bottom"/>
+    </Grid>
+</Page>

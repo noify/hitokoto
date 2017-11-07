@@ -1,0 +1,8 @@
+D:\库\文档\Visual Studio 2013\Projects\超市收银系统\17GUID\bin\Debug\17GUID.exe.config
+D:\库\文档\Visual Studio 2013\Projects\超市收银系统\17GUID\bin\Debug\17GUID.exe
+D:\库\文档\Visual Studio 2013\Projects\超市收银系统\17GUID\bin\Debug\17GUID.pdb
+D:\库\文档\Visual Studio 2013\Projects\超市收银系统\17GUID\obj\Debug\17GUID.csprojResolveAssemblyReference.cache
+D:\库\文档\Visual Studio 2013\Projects\超市收银系统\17GUID\obj\Debug\17GUID.exe
+D:\库\文档\Visual Studio 2013\Projects\超市收银系统\17GUID\obj\Debug\17GUID.pdb
+D:\库\文档\Visual Studio 2013\Projects\超市收银系统\17GUID\bin\Debug\超市收银系统.exe
+D:\库\文档\Visual Studio 2013\Projects\超市收银系统\17GUID\bin\Debug\超市收银系统.pdb

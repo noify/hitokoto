@@ -1,0 +1,10 @@
+d:\库\文档\visual studio 2013\Projects\NANO4\NANO4\bin\Debug\NANO4.exe.config
+d:\库\文档\visual studio 2013\Projects\NANO4\NANO4\bin\Debug\NANO4.exe
+d:\库\文档\visual studio 2013\Projects\NANO4\NANO4\bin\Debug\NANO4.pdb
+d:\库\文档\visual studio 2013\Projects\NANO4\NANO4\obj\Debug\NANO4.csprojResolveAssemblyReference.cache
+d:\库\文档\visual studio 2013\Projects\NANO4\NANO4\obj\Debug\NANO4.Form1.resources
+d:\库\文档\visual studio 2013\Projects\NANO4\NANO4\obj\Debug\NANO4.Properties.Resources.resources
+d:\库\文档\visual studio 2013\Projects\NANO4\NANO4\obj\Debug\NANO4.csproj.GenerateResource.Cache
+d:\库\文档\visual studio 2013\Projects\NANO4\NANO4\obj\Debug\NANO4.exe
+d:\库\文档\visual studio 2013\Projects\NANO4\NANO4\obj\Debug\NANO4.pdb
+d:\库\文档\visual studio 2013\Projects\NANO4\NANO4\obj\Debug\NANO4.Form2.resources

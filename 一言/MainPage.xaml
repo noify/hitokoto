@@ -1,0 +1,70 @@
+﻿<Page
+    x:Class="一言.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:一言"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.Transitions>
+        <TransitionCollection>
+            <NavigationThemeTransition>
+                <SlideNavigationTransitionInfo/>
+            </NavigationThemeTransition>
+        </TransitionCollection>
+    </Page.Transitions>
+    <Page.BottomAppBar>
+        <CommandBar x:Name="cmb" Background="#FF16A0E1" Opacity="0.9">
+            <AppBarButton x:Name="myyi" Icon="ViewAll" Label="我的一言" Click="my_Click"/>
+            <AppBarButton x:Name="F5" Icon="Rotate" Label="随机一言" Click="b_Click"/>
+            <AppBarButton x:Name="newget" Icon="SetLockScreen" Label="投稿" Click="new_Click"/>
+            <AppBarButton x:Name="bc" Icon="Favorite" Label="收藏一言" Click="load_Click"/>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton Icon="Save" Label="保存图片" Click="Save_Click"/>
+                <AppBarButton Label="共享"  Click="share_Click"/>
+                <AppBarButton Label="设置" Click="setts_Click"/>
+                <AppBarButton Label="关于" Click="Gy_Click"/>
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+    <Grid  Background="White" >
+        <Grid x:Name="g" Background="White" Margin="0,0,0,-60">
+            <Grid Background="White" Opacity="0.7" />
+            <Grid VerticalAlignment="Top" Height="45">
+                <Grid.Background>
+                    <ImageBrush ImageSource="ms-appx:///Assets/0.png" />
+                </Grid.Background>
+            </Grid>
+            <TextBlock Text="一言" Foreground="#FF16A0E1"  FontWeight="Bold" FontSize="30" Margin="0,10,5,-10" />
+            <TextBlock Text="ヒ" Foreground="#F62F8A" FontWeight="Bold" FontSize="20" Margin="65,21,-61,-21" />
+            <TextBlock Text="ト" Foreground="#FC7700" FontWeight="Bold" FontSize="20" Margin="85,21,-61,-21" />
+            <TextBlock Text="コ" Foreground="#40A61E" FontWeight="Bold" FontSize="20" Margin="105,21,-61,-21" />
+            <TextBlock Text="ト。" Foreground="#FF16A0E1" FontWeight="Bold" FontSize="20" Margin="125,21,-61,-21" />
+            <StackPanel VerticalAlignment="Center">
+                <TextBlock x:Name="a" FontWeight="Bold" VerticalAlignment="Center" Text="" FontSize="20" TextWrapping="Wrap" Foreground="Black" />
+                <TextBlock Text=""/>
+                <TextBlock Text=""/>
+                <TextBlock Text=""/>
+                <TextBlock Text=""/>
+                <TextBlock Text=""/>
+                <TextBlock Text=""/>
+                <TextBlock Text=""/>
+            </StackPanel>
+            <StackPanel VerticalAlignment="Bottom"  Height="97" Margin="0,0,0,60" >
+                <TextBlock x:Name="a1" Text="" FontSize="20"  Foreground="Black"/>
+                <TextBlock x:Name="a2" Text="" FontSize="20"  Foreground="Black"/>
+                <TextBlock x:Name="a3" Text="" FontSize="20"  Foreground="Black"/>
+                <TextBlock x:Name="a4" Text="" FontSize="20"  Foreground="Black"/>
+            </StackPanel>
+            <StackPanel x:Name="mg" Visibility="Collapsed">
+                <ProgressBar IsIndeterminate="True" BorderBrush="#FF16A0E1" Width="400"/>
+                <Grid>
+                <TextBlock x:Name="mt" Text="正在加载..." FontSize="18" Foreground="#FF16A0E1" HorizontalAlignment="Right" Margin="0,0,20,0" />
+                    <CheckBox Background="#FF16A0E1" BorderBrush="#FF16A0E1" Foreground="#FF16A0E1" HorizontalAlignment="Right" Margin="0,-20,-160,0" />
+                </Grid>
+            </StackPanel>
+            <Rectangle x:Name="rec" Stroke="{ThemeResource AppBarSeparatorForegroundThemeBrush}" Fill="{StaticResource AppBarToggleButtonCheckedDisabledBorderThemeBrush}"/>
+        </Grid>
+    </Grid>
+</Page>

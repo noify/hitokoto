@@ -1,0 +1,46 @@
+﻿<Page
+    x:Class="大白1.BasicPage9"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:大白1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel>
+        <Image Source="/Assets/1.jpg" Height="100" HorizontalAlignment="Left" />
+        <TextBlock/>
+        <TextBlock/>
+        <TextBlock/>
+        <TextBlock/>
+        <TextBlock/>
+        <TextBlock Text="Yes,My Lord!以下1到10的十个等级里,主人你用几来形容你的疼痛?" x:Name="n2" FontSize="25" TextWrapping="Wrap"/>
+        <Image Source="/Assets/4.jpg" Height="150"/>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button Content="1" FontSize="25" Click="Button_Click"/>
+            <Button Content="2" FontSize="25" Click="Button_Click" Grid.Column="1"/>
+            <Button Content="3" FontSize="25" Click="Button_Click" Grid.Column="2"/>
+            <Button Content="4" FontSize="25" Click="Button_Click" Grid.Row="1"/>
+            <Button Content="5" FontSize="25" Click="Button_Click" Grid.Row="1" Grid.Column="1"/>
+            <Button Content="6" FontSize="25" Click="Button_Click1" Grid.Row="1" Grid.Column="2"/>
+            <Button Content="7" FontSize="25" Click="Button_Click1" Grid.Row="2"/>
+            <Button Content="8" FontSize="25" Click="Button_Click1" Grid.Row="2" Grid.Column="1"/>
+            <Button Content="9" FontSize="25" Click="Button_Click1" Grid.Row="2" Grid.Column="2"/>
+            <Button Content="10" FontSize="25" Click="Button_Click1" Grid.Row="3" Grid.Column="1"/>
+
+        </Grid>
+
+    </StackPanel>
+</Page>

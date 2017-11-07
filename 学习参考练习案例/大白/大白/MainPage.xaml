@@ -1,0 +1,29 @@
+﻿<Page
+    x:Class="大白.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:大白"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock
+            x:Name="tb1"
+            Text="(-—-)"
+            FontSize="25"/>
+        <Image x:Name="i1" Margin="151,150,149,389" Source="Assets/1.jpg" Visibility="Collapsed"/>
+        <Image x:Name="i2" Margin="151,150,149,389" Source="Assets/2.jpg" Visibility="Collapsed"/>
+        <Image x:Name="i3" Margin="151,150,149,389" Source="Assets/3.jpg" Visibility="Collapsed"/>
+        <TextBlock
+            x:Name="tb2"
+            Text="请输入启动密码" 
+            FontSize="30"
+            HorizontalAlignment="Center"
+            TextWrapping="Wrap"
+            Margin="0,275,0,-251" Width="400"/>
+        <TextBox  x:Name="tb" HorizontalAlignment="Left" Margin="0,592,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="286"/>
+        <Button Content="发送" Click="Button_Click" HorizontalAlignment="Left" Margin="291,582,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Page>
